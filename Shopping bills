@@ -1,0 +1,22 @@
+names=["chinni","Sweety","sowjanya","inni","nandini"]
+bills=[3300,1500,1500,200,600]
+total=0
+print(names,bills)
+for i in bills:
+    total+=i
+print("total bill:",total)
+#Movie Ticket Booking
+tickets = int(input("How many tickets do you want? "))
+for seat in range(1, tickets+1):
+    print(f"🎟 Ticket booked for Seat {seat}")
+multiple_widrawals=int[100,500,5690,2321,999]
+Balance=int(10000)
+for i in Balance:
+    Balance-=int(multiple_widrawals)
+print("the remaining balance:",Balance)
+
+
+
+
+
+
